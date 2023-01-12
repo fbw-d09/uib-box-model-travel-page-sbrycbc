@@ -1,0 +1,72 @@
+
+
+
+body {   
+    border: 20px solid rgb(172, 167, 167);
+
+}
+
+main {
+    height:800px;
+
+}
+
+
+
+
+li {
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+font-size: 22px;
+}
+
+
+li:hover {
+    font-weight: 900;
+    cursor: pointer;
+  }
+
+ul {
+    text-align: right;
+}
+
+.link-seite {
+  width: 48%;
+  display: inline-block;
+  padding: 20px;
+  text-align: justify;
+ 
+}
+
+
+.recht-seite {
+    background-image: url(./images/beach.jpg);
+    background-size: cover;
+    height: 800px;
+    width: 49.6%;
+    display: inline-block;
+    background-position: top center;
+ 
+}
+
+.travel {
+    text-align: right;
+    background-color: rgb(172, 167, 167);
+    padding: 10px;
+}
+
+.loremipsum  {
+    font-size: 25px;
+    margin-top: 50px;
+    line-height: 30px;
+    word-spacing: 5px;
+    letter-spacing: 0.8px;
+    margin-bottom: 70px;
+  
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 250px; 
+}
